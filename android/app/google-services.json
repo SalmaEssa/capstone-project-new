@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369293728414",
+    "firebase_url": "https://axonextended.firebaseio.com",
+    "project_id": "axonextended",
+    "storage_bucket": "axonextended.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369293728414:android:20ee02910ecfc90c10398f",
+        "android_client_info": {
+          "package_name": "com.akwad.axon.axon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369293728414-a3ud68c0hd94hlse9smjar01pvnqldb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssfkymp1q257OcY1Z2THFqpdPWXsjYlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369293728414-a3ud68c0hd94hlse9smjar01pvnqldb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
